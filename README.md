@@ -4,9 +4,9 @@
 - 📫 How to reach me: Github Issues
 
 Projects:
-1. https://gs109111.github.io/iOS-Simulator-Tools/
+1. 📱 https://gs109111.github.io/iOS-Simulator-Tools/
 
-2. https://gs109111.github.io/covid19tracker/
+2. 🦠 https://gs109111.github.io/covid19tracker/
 
 <!---
 gs109111/gs109111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
