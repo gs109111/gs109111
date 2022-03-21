@@ -2,6 +2,7 @@
 - 👀 I’m interested in Coding, Designing  
 - 🌱 I’m currently learning Swift + SwiftUI
 - 📫 How to reach me: Github Issues
+- All Projects are made with ❤️ By Gureet Sidhu
 
 Projects:
 1. 📱 https://gs109111.github.io/iOS-Simulator-Tools/
