@@ -5,11 +5,9 @@
 - All Projects are made with ❤️ By Gureet Sidhu
 
 Projects:
-1. 📱 https://gs109111.github.io/iOS-Simulator-Tools/
+1. 🦠 https://gs109111.github.io/covid19tracker/
 
-2. 🦠 https://gs109111.github.io/covid19tracker/
-
-3. 🗑 https://github.com/gs109111/StackViewer
+2. 🗑 https://github.com/gs109111/StackViewer
 
 <!---
 gs109111/gs109111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
