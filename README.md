@@ -27,4 +27,4 @@
 
 
 
-All Projects are made with ❤️ By Gureet Sidhu 
+All projects are made with ❤️ By Gureet Sidhu 
