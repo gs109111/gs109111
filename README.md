@@ -21,10 +21,5 @@
 ## Few Projects ##
 1. 🦠 **Covid 19 Tracker**\
       https://gs109111.github.io/covid19tracker/ 
-     
-3. 📹 **Youtube Video Player**\
-      https://github.com/gs109111/YoutubePlayer/ 
-
-
 
 All projects are made with ❤️ By Gureet Sidhu 
