@@ -9,12 +9,12 @@
 | 🌎 HTML |
 | 🌎 Css |
 | 🌎 Js |
+| 🍏 Swift    | 
+| 🍎 SwiftUI |
 
 ## Learning ## 
 | Coding Languages      | 
 | ----------- 
-| 🍏 Swift    | 
-| 🍎 SwiftUI |
 | 💿 C Programming |
 | ➕ Ti Basic | 
 
