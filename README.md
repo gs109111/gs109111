@@ -1,6 +1,6 @@
 ## About Me ##
 👋 Hi, I’m @gs109111\
-👀 I’m interested in Coding, Designing  
+👀 I’m Passionate about Innovation, Software Development and IT
 
 ## Programming Experience ## 
 | Coding Languages      | 
@@ -11,12 +11,7 @@
 | 🌎 Js |
 | 🍏 Swift    | 
 | 🍎 SwiftUI |
-
-## Learning ## 
-| Coding Languages      | 
-| ----------- 
-| 💿 C Programming |
-| ➕ Ti Basic | 
+| ➕ More |
 
 ## Few Projects ##
 1. 🦠 **Covid 19 Tracker**\
