@@ -7,8 +7,8 @@
 | ----------- 
 | 💻 Python    | 
 | 🌎 HTML |
-| 🌎 Css |
-| 🌎 Js |
+| 🌎 CSS |
+| 🌎 JS |
 | 🍏 Swift    | 
 | 🍎 SwiftUI |
 | ➕ More |
