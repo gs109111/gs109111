@@ -13,7 +13,7 @@
 | 🍎 SwiftUI |
 | ➕ More |
 
-## Few Projects ##
+## Some of My Projects ##
 1. 🦠 **Covid 19 Tracker**\
       https://gs109111.github.io/covid19tracker/ 
 
