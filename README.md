@@ -18,7 +18,7 @@
       https://gs109111.github.io/covid19tracker/
    
 2. 🌎 **About Website**\
-     https://gs109111.github.io/covid19tracker/
+     https://gs109111.github.io/about/
 
 #
 All projects are made with ❤️ By Gureet Sidhu 
