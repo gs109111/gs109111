@@ -11,13 +11,17 @@
 | 🌎 JS |
 | 🍏 Swift    | 
 | 🍎 SwiftUI |
+| ⏩ C++ |
 | ➕ More |
 
 ## Some of My Projects ##
-1. 🦠 **Covid 19 Tracker**\
+1. 🦠 **WordleSolver**\
+      https://github.com/gs109111/WordleSolver
+      
+2. 🦠 **Covid 19 Tracker**\
       https://gs109111.github.io/covid19tracker/
    
-2. 🌎 **About Website**\
+3. 🌎 **About Website**\
      https://gs109111.github.io/about/
 
 #
