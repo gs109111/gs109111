@@ -15,7 +15,7 @@
 | ➕ More |
 
 ## Some of My Projects ##
-1. 🦠 **WordleSolver**\
+1. 🔡 **WordleSolver**\
       https://github.com/gs109111/WordleSolver
       
 2. 🦠 **Covid 19 Tracker**\
